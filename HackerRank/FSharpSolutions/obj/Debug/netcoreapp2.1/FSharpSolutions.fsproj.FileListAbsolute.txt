@@ -1,0 +1,10 @@
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\bin\Debug\netcoreapp2.1\FSharpSolutions.deps.json
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\bin\Debug\netcoreapp2.1\FSharpSolutions.runtimeconfig.json
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\bin\Debug\netcoreapp2.1\FSharpSolutions.runtimeconfig.dev.json
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\bin\Debug\netcoreapp2.1\FSharpSolutions.dll
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\bin\Debug\netcoreapp2.1\FSharpSolutions.pdb
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\obj\Debug\netcoreapp2.1\FSharpSolutions.fsprojAssemblyReference.cache
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\obj\Debug\netcoreapp2.1\FSharpSolutions.AssemblyInfoInputs.cache
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\obj\Debug\netcoreapp2.1\FSharpSolutions.AssemblyInfo.fs
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\obj\Debug\netcoreapp2.1\FSharpSolutions.dll
+C:\Users\korad\OneDrive\Desktop\HackerRank\HackerRank\FSharpSolutions\obj\Debug\netcoreapp2.1\FSharpSolutions.pdb

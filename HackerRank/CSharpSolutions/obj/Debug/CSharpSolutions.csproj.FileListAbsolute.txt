@@ -1,0 +1,7 @@
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\bin\Debug\CSharpSolutions.exe.config
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\bin\Debug\CSharpSolutions.exe
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\bin\Debug\CSharpSolutions.pdb
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\obj\Debug\CSharpSolutions.csprojAssemblyReference.cache
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\obj\Debug\CSharpSolutions.csproj.CoreCompileInputs.cache
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\obj\Debug\CSharpSolutions.exe
+C:\Users\korad\OneDrive\Desktop\Repository\HackerRank\HackerRank\CSharpSolutions\obj\Debug\CSharpSolutions.pdb
