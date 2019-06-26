@@ -5,6 +5,7 @@ namespace CSharpSolutions.DynamicProgramming
     class DynamicProgramming
     {
         /*
+            Difficulty : Medium (HackerRank)
             Given an array of integers, find the subset of non-adjacent elements with the maximum sum. Calculate the sum of that subset.
             For example, given an array we have the following possible subsets:
 
