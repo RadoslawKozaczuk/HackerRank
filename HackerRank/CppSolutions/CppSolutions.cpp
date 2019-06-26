@@ -1,12 +1,28 @@
 // CppSolutions.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
-#include "pch.h"
-#include <iostream>
+#include "pch.h" 
+#include <iostream> // puts the text of the included file into your source file (actually translation unit)
+#include "Trees.h"
+
+using namespace TreesNameSpace;
 
 int main()
 {
     std::cout << "Hello World!\n"; 
+
+	// Trees
+	Node* root = new Node(3);
+	root->left = new Node(2);
+	root->right = new Node(5);
+	root->left->left = new Node(1);
+	root->left->right = new Node(4);
+
+	// measure the height
+	int height = Trees::getHeight(root); // static methods are accessed with ::
+	bool isBST = Trees::isBST(root);
+
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
