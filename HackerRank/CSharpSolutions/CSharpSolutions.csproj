@@ -44,10 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DynamicProgramming\Arrays.cs" />
-    <Compile Include="DynamicProgramming\DynamicProgramming.cs" />
+    <Compile Include="Solutions\Arrays.cs" />
+    <Compile Include="Solutions\DynamicProgramming.cs" />
+    <Compile Include="Solutions\GreedyAlgorithms.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\Search.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

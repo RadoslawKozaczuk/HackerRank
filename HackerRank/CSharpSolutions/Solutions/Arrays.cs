@@ -1,0 +1,7 @@
+﻿namespace CSharpSolutions
+{
+    class Arrays
+    {
+
+    }
+}
